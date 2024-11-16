@@ -1,7 +1,5 @@
-# Parcial 3 - Programacion 3
-
-Parcial numero 3 de programacion 3, solucionador de un tablero se sudoku nivel imposible utilizando principalmente
-backjumping.
+# Sudoku solver
+solucionador de un tablero se sudoku nivel imposible utilizando principalmente algoritmo de backjumping.
 
 Los tableros estan almacenados en el directorio `\boards` del proyecto y tienen el siguiente
 formato:
