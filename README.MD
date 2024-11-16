@@ -1,5 +1,5 @@
 # Sudoku solver
-solucionador de un tablero se sudoku nivel imposible utilizando principalmente algoritmo de backjumping.
+solucionador de un tablero se sudoku nivel imposible de <https://www.sudokumania.com.ar> utilizando principalmente algoritmo de backjumping.
 
 Los tableros estan almacenados en el directorio `\boards` del proyecto y tienen el siguiente
 formato:
@@ -44,9 +44,3 @@ O sin la impresion del verbose y con los valores default:
 ```shell
 python main.py
 ```
-
----
-
-_Estudiante: Nicolas Betancur Rios_
-# Sudoku-solver
-# Sudoku-solver
